@@ -70,11 +70,11 @@
       <file leaf-file-name="LoginClass.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LoginMod/src/Login/LoginClass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="10" selection-start="1281" selection-end="1281" vertical-scroll-proportion="0.42977527">
+            <state line="33" column="8" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.42977527">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1590#1769#0" expanded="true" />
-                <element signature="e#1758#1759#0" expanded="true" />
+                <element signature="e#1588#1767#0" expanded="true" />
+                <element signature="e#1756#1757#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -519,11 +519,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LoginMod/src/Login/LoginClass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="10" selection-start="1281" selection-end="1281" vertical-scroll-proportion="0.42977527">
+        <state line="33" column="8" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.42977527">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1590#1769#0" expanded="true" />
-            <element signature="e#1758#1759#0" expanded="true" />
+            <element signature="e#1588#1767#0" expanded="true" />
+            <element signature="e#1756#1757#0" expanded="true" />
           </folding>
         </state>
       </provider>

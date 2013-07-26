@@ -31,7 +31,7 @@ public class LoginClass  {
         // Now submit the form. WebDriver will find the form for us from the element
         element.submit();
 
-        //   Thread.sleep(1000);
+           Thread.sleep(1000);
 
 
         // Check the title of the page
