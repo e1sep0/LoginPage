@@ -52,6 +52,10 @@
     <orderEntry type="library" name="Maven: org.webbitserver:webbit:0.4.14" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty:3.5.2.Final" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-support:2.32.0" level="project" />
+    <orderEntry type="library" name="testng-6.8" level="project" />
+    <orderEntry type="module" module-name="LoginMod" />
+    <orderEntry type="library" name="jxl" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-2.33.0" level="project" />
   </component>
 </module>
 

@@ -26,6 +26,8 @@
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-safari-driver:2.32.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-htmlunit-driver:2.32.0" level="project" />
     <orderEntry type="library" name="Maven: org.seleniumhq.selenium:selenium-firefox-driver:2.32.0" level="project" />
+    <orderEntry type="library" name="testng-6.8" level="project" />
+    <orderEntry type="library" name="jxl" level="project" />
     <orderEntry type="library" name="selenium-server-standalone-2.33.0" level="project" />
   </component>
 </module>
