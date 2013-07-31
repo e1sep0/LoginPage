@@ -2,6 +2,9 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Custom suite" parallel="none">
     <test verbose="1" name="Login" annotations="JDK">
+        <parameter name="filenamePath" value="Test/Data/Data1.xls"/>
+        <parameter name="sheetName" value="LogPass"/>
+        <parameter name="provider" value="TestData"/>
         <classes>
             <class name="Login.LoginClass"/>
         </classes>
